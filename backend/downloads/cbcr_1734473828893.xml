@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cbc:CBC_OECD xmlns:cbc="urn:oecd:ties:cbc:v2" xmlns:stf="urn:oecd:ties:cbcstf:v5" xmlns:iso="urn:oecd:ties:isocbctypes:v1" version="2.0">
+  <cbc:CbcBody>
+    <cbc:Table1>
+      <cbc:Header>TABLE 1 - OVERVIEW OF ALLOCATION OF INCOME, TAXES AND BUSINESS ACTIVITY BY TAX JURISDICTION</cbc:Header>
+      <cbc:Header>NAME OF THE MNE GROUP: SAMPLE HOLDINGS PLC.</cbc:Header>
+      <cbc:Header>FISCAL YEAR CONCERNED: YEAR ENDED 31 DECEMBER 2015</cbc:Header>
+      <cbc:Header>CURRENCY USED: NIGERIAN NAIRA (₦)</cbc:Header>
+      <cbc:CbcReports>
+        <cbc:ResCountryCode>United Kingdom</cbc:ResCountryCode>
+        <cbc:Summary>
+          <cbc:Revenues>
+            <cbc:Unrelated currCode="NIGERIAN NAIRA (₦)">50542718946</cbc:Unrelated>
+            <cbc:Related currCode="NIGERIAN NAIRA (₦)">15166894</cbc:Related>
+            <cbc:Total currCode="NIGERIAN NAIRA (₦)">50557885840</cbc:Total>
+          </cbc:Revenues>
+          <cbc:ProfitOrLoss currCode="NIGERIAN NAIRA (₦)">20397314290</cbc:ProfitOrLoss>
+          <cbc:TaxPaid currCode="NIGERIAN NAIRA (₦)">1184174738</cbc:TaxPaid>
+          <cbc:TaxAccrued currCode="NIGERIAN NAIRA (₦)">1645796149</cbc:TaxAccrued>
+          <cbc:Capital currCode="NIGERIAN NAIRA (₦)">114921080000</cbc:Capital>
+          <cbc:Earnings currCode="NIGERIAN NAIRA (₦)">14261518559</cbc:Earnings>
+          <cbc:NbEmployees>149</cbc:NbEmployees>
+          <cbc:Assets currCode="NIGERIAN NAIRA (₦)">4197049018</cbc:Assets>
+        </cbc:Summary>
+      </cbc:CbcReports>
+      <cbc:CbcReports>
+        <cbc:ResCountryCode>Democratic Republic of Congo (DRC)</cbc:ResCountryCode>
+        <cbc:Summary>
+          <cbc:Revenues>
+            <cbc:Unrelated currCode="NIGERIAN NAIRA (₦)">24711563737</cbc:Unrelated>
+            <cbc:Related currCode="NIGERIAN NAIRA (₦)">16916337763</cbc:Related>
+            <cbc:Total currCode="NIGERIAN NAIRA (₦)">41627901500</cbc:Total>
+          </cbc:Revenues>
+          <cbc:ProfitOrLoss currCode="NIGERIAN NAIRA (₦)">10717901500</cbc:ProfitOrLoss>
+          <cbc:TaxPaid currCode="NIGERIAN NAIRA (₦)">362000000</cbc:TaxPaid>
+          <cbc:TaxAccrued currCode="NIGERIAN NAIRA (₦)">3215000000</cbc:TaxAccrued>
+          <cbc:Capital currCode="NIGERIAN NAIRA (₦)">3710431286</cbc:Capital>
+          <cbc:Earnings currCode="NIGERIAN NAIRA (₦)">11701077993</cbc:Earnings>
+          <cbc:NbEmployees>496</cbc:NbEmployees>
+          <cbc:Assets currCode="NIGERIAN NAIRA (₦)">12615000000</cbc:Assets>
+        </cbc:Summary>
+      </cbc:CbcReports>
+      <cbc:CbcReports>
+        <cbc:ResCountryCode>The Gambia</cbc:ResCountryCode>
+        <cbc:Summary>
+          <cbc:Revenues>
+            <cbc:Unrelated currCode="NIGERIAN NAIRA (₦)">1366366464</cbc:Unrelated>
+            <cbc:Related currCode="NIGERIAN NAIRA (₦)">0</cbc:Related>
+            <cbc:Total currCode="NIGERIAN NAIRA (₦)">1366366464</cbc:Total>
+          </cbc:Revenues>
+          <cbc:ProfitOrLoss currCode="NIGERIAN NAIRA (₦)">392366464</cbc:ProfitOrLoss>
+          <cbc:TaxPaid currCode="NIGERIAN NAIRA (₦)">65861724</cbc:TaxPaid>
+          <cbc:TaxAccrued currCode="NIGERIAN NAIRA (₦)">234475299</cbc:TaxAccrued>
+          <cbc:Capital currCode="NIGERIAN NAIRA (₦)">1815761468</cbc:Capital>
+          <cbc:Earnings currCode="NIGERIAN NAIRA (₦)">33279190</cbc:Earnings>
+          <cbc:NbEmployees>86</cbc:NbEmployees>
+          <cbc:Assets currCode="NIGERIAN NAIRA (₦)">699364891</cbc:Assets>
+        </cbc:Summary>
+      </cbc:CbcReports>
+      <cbc:CbcReports>
+        <cbc:ResCountryCode>Ghana</cbc:ResCountryCode>
+        <cbc:Summary>
+          <cbc:Revenues>
+            <cbc:Unrelated currCode="NIGERIAN NAIRA (₦)">19034468188</cbc:Unrelated>
+            <cbc:Related currCode="NIGERIAN NAIRA (₦)">113616</cbc:Related>
+            <cbc:Total currCode="NIGERIAN NAIRA (₦)">19034581804</cbc:Total>
+          </cbc:Revenues>
+          <cbc:ProfitOrLoss currCode="NIGERIAN NAIRA (₦)">6732749753</cbc:ProfitOrLoss>
+          <cbc:TaxPaid currCode="NIGERIAN NAIRA (₦)">1657689448</cbc:TaxPaid>
+          <cbc:TaxAccrued currCode="NIGERIAN NAIRA (₦)">4257000000</cbc:TaxAccrued>
+          <cbc:Capital currCode="NIGERIAN NAIRA (₦)">28245283961</cbc:Capital>
+          <cbc:Earnings currCode="NIGERIAN NAIRA (₦)">8935820641</cbc:Earnings>
+          <cbc:NbEmployees>367</cbc:NbEmployees>
+          <cbc:Assets currCode="NIGERIAN NAIRA (₦)">3731189412</cbc:Assets>
+        </cbc:Summary>
+      </cbc:CbcReports>
+      <cbc:CbcReports>
+        <cbc:ResCountryCode>Guinea</cbc:ResCountryCode>
+        <cbc:Summary>
+          <cbc:Revenues>
+            <cbc:Unrelated currCode="NIGERIAN NAIRA (₦)">8239800690</cbc:Unrelated>
+            <cbc:Related currCode="NIGERIAN NAIRA (₦)">444199310</cbc:Related>
+            <cbc:Total currCode="NIGERIAN NAIRA (₦)">8684000000</cbc:Total>
+          </cbc:Revenues>
+          <cbc:ProfitOrLoss currCode="NIGERIAN NAIRA (₦)">3515000000</cbc:ProfitOrLoss>
+          <cbc:TaxPaid currCode="NIGERIAN NAIRA (₦)">971000000</cbc:TaxPaid>
+          <cbc:TaxAccrued currCode="NIGERIAN NAIRA (₦)">1231000000</cbc:TaxAccrued>
+          <cbc:Capital currCode="NIGERIAN NAIRA (₦)">7621005464</cbc:Capital>
+          <cbc:Earnings currCode="NIGERIAN NAIRA (₦)">1763011257</cbc:Earnings>
+          <cbc:NbEmployees>136</cbc:NbEmployees>
+          <cbc:Assets currCode="NIGERIAN NAIRA (₦)">1618000000</cbc:Assets>
+        </cbc:Summary>
+      </cbc:CbcReports>
+      <cbc:CbcReports>
+        <cbc:ResCountryCode>Senegal</cbc:ResCountryCode>
+        <cbc:Summary>
+          <cbc:Revenues>
+            <cbc:Unrelated currCode="NIGERIAN NAIRA (₦)">8237000000</cbc:Unrelated>
+            <cbc:Related currCode="NIGERIAN NAIRA (₦)">0</cbc:Related>
+            <cbc:Total currCode="NIGERIAN NAIRA (₦)">8237000000</cbc:Total>
+          </cbc:Revenues>
+          <cbc:ProfitOrLoss currCode="NIGERIAN NAIRA (₦)">1414000000</cbc:ProfitOrLoss>
+          <cbc:TaxPaid currCode="NIGERIAN NAIRA (₦)">3742816</cbc:TaxPaid>
+          <cbc:TaxAccrued currCode="NIGERIAN NAIRA (₦)">124000000</cbc:TaxAccrued>
+          <cbc:Capital currCode="NIGERIAN NAIRA (₦)">9720637840</cbc:Capital>
+          <cbc:Earnings currCode="NIGERIAN NAIRA (₦)">344564596</cbc:Earnings>
+          <cbc:NbEmployees>145</cbc:NbEmployees>
+          <cbc:Assets currCode="NIGERIAN NAIRA (₦)">899000000</cbc:Assets>
+        </cbc:Summary>
+      </cbc:CbcReports>
+      <cbc:CbcReports>
+        <cbc:ResCountryCode>Sierra Leone</cbc:ResCountryCode>
+        <cbc:Summary>
+          <cbc:Revenues>
+            <cbc:Unrelated currCode="NIGERIAN NAIRA (₦)">2394268110</cbc:Unrelated>
+            <cbc:Related currCode="NIGERIAN NAIRA (₦)">0</cbc:Related>
+            <cbc:Total currCode="NIGERIAN NAIRA (₦)">2394268110</cbc:Total>
+          </cbc:Revenues>
+          <cbc:ProfitOrLoss currCode="NIGERIAN NAIRA (₦)">938624521</cbc:ProfitOrLoss>
+          <cbc:TaxPaid currCode="NIGERIAN NAIRA (₦)">23229964</cbc:TaxPaid>
+          <cbc:TaxAccrued currCode="NIGERIAN NAIRA (₦)">234475299</cbc:TaxAccrued>
+          <cbc:Capital currCode="NIGERIAN NAIRA (₦)">3218691964</cbc:Capital>
+          <cbc:Earnings currCode="NIGERIAN NAIRA (₦)">540073942</cbc:Earnings>
+          <cbc:NbEmployees>120</cbc:NbEmployees>
+          <cbc:Assets currCode="NIGERIAN NAIRA (₦)">295394695</cbc:Assets>
+        </cbc:Summary>
+      </cbc:CbcReports>
+      <cbc:CbcReports>
+        <cbc:ResCountryCode>Netherlands</cbc:ResCountryCode>
+        <cbc:Summary>
+          <cbc:Revenues>
+            <cbc:Unrelated currCode="NIGERIAN NAIRA (₦)">13300264362</cbc:Unrelated>
+            <cbc:Related currCode="NIGERIAN NAIRA (₦)">0</cbc:Related>
+            <cbc:Total currCode="NIGERIAN NAIRA (₦)">13300264362</cbc:Total>
+          </cbc:Revenues>
+          <cbc:ProfitOrLoss currCode="NIGERIAN NAIRA (₦)">12626045</cbc:ProfitOrLoss>
+          <cbc:TaxPaid currCode="NIGERIAN NAIRA (₦)">1930500</cbc:TaxPaid>
+          <cbc:TaxAccrued currCode="NIGERIAN NAIRA (₦)">1930500</cbc:TaxAccrued>
+          <cbc:Capital currCode="NIGERIAN NAIRA (₦)">8166391</cbc:Capital>
+          <cbc:Earnings currCode="NIGERIAN NAIRA (₦)">54935683</cbc:Earnings>
+          <cbc:NbEmployees>0</cbc:NbEmployees>
+          <cbc:Assets currCode="NIGERIAN NAIRA (₦)">0</cbc:Assets>
+        </cbc:Summary>
+      </cbc:CbcReports>
+      <cbc:CbcReports>
+        <cbc:ResCountryCode>Nigeria</cbc:ResCountryCode>
+        <cbc:Summary>
+          <cbc:Revenues>
+            <cbc:Unrelated currCode="NIGERIAN NAIRA (₦)">488823139770</cbc:Unrelated>
+            <cbc:Related currCode="NIGERIAN NAIRA (₦)">9808082351</cbc:Related>
+            <cbc:Total currCode="NIGERIAN NAIRA (₦)">498631222122</cbc:Total>
+          </cbc:Revenues>
+          <cbc:ProfitOrLoss currCode="NIGERIAN NAIRA (₦)">113985566487</cbc:ProfitOrLoss>
+          <cbc:TaxPaid currCode="NIGERIAN NAIRA (₦)">9753047711</cbc:TaxPaid>
+          <cbc:TaxAccrued currCode="NIGERIAN NAIRA (₦)">12674830642</cbc:TaxAccrued>
+          <cbc:Capital currCode="NIGERIAN NAIRA (₦)">45845119688</cbc:Capital>
+          <cbc:Earnings currCode="NIGERIAN NAIRA (₦)">367224132338</cbc:Earnings>
+          <cbc:NbEmployees>6473</cbc:NbEmployees>
+          <cbc:Assets currCode="NIGERIAN NAIRA (₦)">227340299851</cbc:Assets>
+        </cbc:Summary>
+      </cbc:CbcReports>
+    </cbc:Table1>
+    <cbc:Table2>
+      <cbc:Header>Table 2-LIST OF ALL THE CONSTITUENT ENTITIES OF THE MNE GROUP INCLUDED IN EACH AGGREGATION PER TAX JURISDICTION</cbc:Header>
+      <cbc:Header>NAME OF THE MNE GROUP: SAMPLE HOLDINGS PLC.</cbc:Header>
+      <cbc:Header>FISCAL YEAR CONCERNED: YEAR ENDED 31 DECEMBER 2015</cbc:Header>
+      <cbc:Jurisdiction>
+        <cbc:ResCountryCode>United Kingdom</cbc:ResCountryCode>
+        <cbc:ConstEntity>
+          <cbc:Name>SAMPLE BANK (UK) Ltd.</cbc:Name>
+          <cbc:BizActivities>Provision of Services to Unrelated Parties</cbc:BizActivities>
+          <cbc:BizActivities>Regulated Financial Services</cbc:BizActivities>
+        </cbc:ConstEntity>
+      </cbc:Jurisdiction>
+      <cbc:Jurisdiction>
+        <cbc:ResCountryCode>Ghana</cbc:ResCountryCode>
+        <cbc:ConstEntity>
+          <cbc:Name>SAMPLE BANK Ghana Ltd</cbc:Name>
+          <cbc:BizActivities>Provision of Services to Unrelated Parties</cbc:BizActivities>
+          <cbc:BizActivities>Regulated Financial Services</cbc:BizActivities>
+        </cbc:ConstEntity>
+      </cbc:Jurisdiction>
+      <cbc:Jurisdiction>
+        <cbc:ResCountryCode>Guinea</cbc:ResCountryCode>
+        <cbc:ConstEntity>
+          <cbc:Name>SAMPLE BANK Guinea Ltd</cbc:Name>
+          <cbc:BizActivities>Provision of Services to Unrelated Parties</cbc:BizActivities>
+          <cbc:BizActivities>Regulated Financial Services</cbc:BizActivities>
+        </cbc:ConstEntity>
+      </cbc:Jurisdiction>
+      <cbc:Jurisdiction>
+        <cbc:ResCountryCode>Senegal</cbc:ResCountryCode>
+        <cbc:ConstEntity>
+          <cbc:Name>SAMPLE BANK Senegal Ltd</cbc:Name>
+          <cbc:BizActivities>Provision of Services to Unrelated Parties</cbc:BizActivities>
+          <cbc:BizActivities>Regulated Financial Services</cbc:BizActivities>
+        </cbc:ConstEntity>
+      </cbc:Jurisdiction>
+      <cbc:Jurisdiction>
+        <cbc:ResCountryCode>Sierra Leone</cbc:ResCountryCode>
+        <cbc:ConstEntity>
+          <cbc:Name>SAMPLE BANK Sierra Leone Ltd</cbc:Name>
+          <cbc:BizActivities>Provision of Services to Unrelated Parties</cbc:BizActivities>
+          <cbc:BizActivities>Regulated Financial Services</cbc:BizActivities>
+        </cbc:ConstEntity>
+      </cbc:Jurisdiction>
+      <cbc:Jurisdiction>
+        <cbc:ResCountryCode>Netherlands</cbc:ResCountryCode>
+        <cbc:ConstEntity>
+          <cbc:Name>SAMPLE Finance Company BV.</cbc:Name>
+        </cbc:ConstEntity>
+      </cbc:Jurisdiction>
+      <cbc:Jurisdiction>
+        <cbc:ResCountryCode>Nigeria</cbc:ResCountryCode>
+        <cbc:ConstEntity>
+          <cbc:Name>SAMPLE Holdings Plc.</cbc:Name>
+          <cbc:BizActivities>Holding Shares or Other Equity Instruments</cbc:BizActivities>
+        </cbc:ConstEntity>
+        <cbc:ConstEntity>
+          <cbc:Name/>
+        </cbc:ConstEntity>
+      </cbc:Jurisdiction>
+    </cbc:Table2>
+    <cbc:Table3>
+      <cbc:Header>TABLE 3 - ADDITIONAL INFORMATION</cbc:Header>
+      <cbc:Header>NAME OF THE MNE GROUP: SAMPLE HOLDINGS PLC</cbc:Header>
+      <cbc:Header>FISCAL YEAR CONCERNED: YEAR ENDED 31 DECEMBER 2015</cbc:Header>
+      <cbc:AdditionalInfo>
+        <cbc:OtherInfo>1. Source of data: The data presented in the Sample Holdings Plc. Group's CbC report was derived from the 2015 consolidation reporting packages of the group's different business segments. The different consolidation packages were prepared based on the International Financial Reporting Standard (IFRS) and are presented in Nigerian Naira (₦).</cbc:OtherInfo>
+      </cbc:AdditionalInfo>
+      <cbc:AdditionalInfo>
+        <cbc:OtherInfo>2. Related party revenue (dividend): Revenue in column 3 (i.e. related party revenues) excludes dividend received from other constituent entities.</cbc:OtherInfo>
+      </cbc:AdditionalInfo>
+      <cbc:AdditionalInfo>
+        <cbc:OtherInfo>3. Profit/(loss)before income tax (PBT): PBT was derived by adding back taxes and deducting dividends from constituent entities for the period.</cbc:OtherInfo>
+      </cbc:AdditionalInfo>
+      <cbc:AdditionalInfo>
+        <cbc:OtherInfo>4. Income Taxes Paid (on cash basis): Income taxes paid on cash basis represents all payments made or refunds received during the year by all constituent entities resident for tax purposes in the relevant tax jurisdiction, irrespective of the tax year to which the taxes relate. This generally includes: total income taxes paid during FY 2015; cash tax payments fulfilling the previous year(s)' tax obligation(s), withholding taxes, tax refunds received during FY 2015.</cbc:OtherInfo>
+      </cbc:AdditionalInfo>
+      <cbc:AdditionalInfo>
+        <cbc:OtherInfo>5. Income Taxes Accrued: Income taxes accrued reflects the current tax expense relating to the operations in the current year and excludes deferred taxes and other adjustments.</cbc:OtherInfo>
+      </cbc:AdditionalInfo>
+      <cbc:AdditionalInfo>
+        <cbc:OtherInfo>6. Stated capital: this includes the sum of the stated capital (share capital) of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction.</cbc:OtherInfo>
+      </cbc:AdditionalInfo>
+      <cbc:AdditionalInfo>
+        <cbc:OtherInfo>7. Accumulated earnings: this includes the sum of the total accumulated earnings of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction as of the end of the year. Accumulated earnings include negative figures for jurisdictions i.e. jurisdictions with accumulated losses</cbc:OtherInfo>
+      </cbc:AdditionalInfo>
+      <cbc:AdditionalInfo>
+        <cbc:OtherInfo>8. Number of employees: number of employees represents the average number of personnel in the group in the period under review.</cbc:OtherInfo>
+      </cbc:AdditionalInfo>
+      <cbc:AdditionalInfo>
+        <cbc:OtherInfo>9. Tangible assets: this includes the sum of the net book values of tangible assets of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. This was derived from the summation of fixed assets, investment property and inventories (inclusive of inventory held for sale).</cbc:OtherInfo>
+      </cbc:AdditionalInfo>
+    </cbc:Table3>
+  </cbc:CbcBody>
+</cbc:CBC_OECD>
